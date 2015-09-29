@@ -11,3 +11,5 @@ Exercise for Week 1:
     * "Link to GitHub profile page": "https://github.com/GitHubUsername"
 * Use Git to track your changes both locally and remotely
 * Once you're done, do a pull request (PR) on GitHub to submit your exercise
+
+Problems? Questions? Email me at femmebot@gmail.com
