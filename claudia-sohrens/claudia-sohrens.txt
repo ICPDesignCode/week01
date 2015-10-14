@@ -1,2 +1,0 @@
-"Name": "Claudia Sohrens"
-"Link to GitHub profile page": "https://github.com/csohrens"

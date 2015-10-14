@@ -1,2 +1,0 @@
-Name: "Renan Meira"
-Link to GitHub profile page: "https://github.com/renanmg2"

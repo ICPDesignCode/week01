@@ -1,3 +1,0 @@
-
-    "Name": "Daphne Chan"
-    "Link to GitHub profile page": "https://github.com/daphnechan"

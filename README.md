@@ -6,7 +6,7 @@ Exercise for Week 1:
 * Use terminal commands to accomplish the following:
   1. Navigate into your local **week01** repo
   2. Create a new folder within your local repo and label it with your name (e.g., firstname-lastname)
-  3. In your newly-created folder, create a text file that contains the following. (Insert your name and GitHub username in the quotation marks):
+  3. In your newly-created folder, create a text file called student.txt that contains the following. (Insert your name and GitHub username in the quotation marks):
     * "Name": "Firstname Lastname"
     * "Link to GitHub profile page": "https://github.com/GitHubUsername"
 * Use Git to track your changes both locally and remotely
